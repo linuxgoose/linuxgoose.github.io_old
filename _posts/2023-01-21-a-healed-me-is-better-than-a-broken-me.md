@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are We Losing Our Human Connection?
+title: A Healed Me Is Better Than An Unbroken Me
 tags: [self-development,self-improvement,life,life-lessons,mental-health]
 comments: true
 author: Jordan Robinson
