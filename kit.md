@@ -27,3 +27,31 @@ I enjoy GitLab as well. The CI/CD capabilities of both will do. But, GitHub bein
 #### Google Cloud
 
 My preferred platform for managing our (and client) infrastructure. Cloud Run pairs nicely with GitHub Actions to keep simple projects simple, but has the capability to scale when needed.
+
+### Design
+
+#### Figma
+
+We started using Figma as just a design tool but now it’s become our ideal virtual whiteboard that we use. The cross-platform collaboration tools are quite good and we have never encountered an issue onboarding clients to the tool making it a low-barrier option. FigJam time!
+
+#### Apple Freeform
+
+Some of my clients are Mac folks so I’ve been diving into Apple Freeform with them as part of their preferred toolkits. While it is fairly basic, it works just as well as you’d expect from Apple. It is a no fuss, just-works, kind of whiteboard.
+
+### Productivity
+
+#### Apple iWork
+
+I like having personal productivity tools split from my work tools. In prior years I didn't focus on this distinction and I believe it is why I experienced a little bit of burnout. I was unable to fully disconnect and move into personal projects and relaxation. Nonetheless, say what you will about the Apple iWork suite, but it works extremely well. It isn't as well integrated as Google Workspace and for that reason I don't believe I would ever use it for business, but for personal work it is simple, clean, and focused - which is what I need after a long work day.
+
+#### Google Workspace (replaced Notion)
+
+After having been using a myriad of other tools throughout the past 5+ years I had not realised just how fantastic Google Workspace has gotten. My previous workplace was a heavy Microsoft shop and while it worked, it felt clunky and like it was held together with duct tape. Outlook was the only thing that kept me partially sane while using Microsoft 365. With Google Workspace, the seamless integration of Google Docs, Google Calendar, and Google Tasks (which I am using with GitHub issues instead of a Notion database) with Gmail is snappy and intuitive. No more bloated broken tools.
+    
+#### Google Chat (replaced Slack)
+
+The central hub for my work with clients, partners, and team members. As I use Google Workspace for my business work and most of my clients and partners do as well, this chat tool integrates well and works for what we need.
+
+#### Microsoft Teams
+
+Just easy and effective for virtual meetings with clients.
