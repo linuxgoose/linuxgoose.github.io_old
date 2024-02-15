@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Jordan Robinson
 
 # Your name to show in the footer
-author: Some Person
+author: Jordan Robinson
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Medium: "https://jj-robinson.medium.com/"
 
 ################
 # --- Logo --- #
@@ -98,7 +98,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "jordanrobinson.org"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
