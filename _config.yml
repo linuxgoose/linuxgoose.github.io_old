@@ -21,6 +21,7 @@ author: Jordan Robinson
 
 navbar-links:
   About Me: "aboutme"
+  Kit: "kit"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
