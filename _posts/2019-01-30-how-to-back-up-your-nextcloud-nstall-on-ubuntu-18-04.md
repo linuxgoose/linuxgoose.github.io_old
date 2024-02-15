@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Silent Void - How Silence Affects Us
+title: How to Back Up Your Nextcloud Install On Ubuntu 18.04 (Writing Sample)
 subtitle: A tutorial on how to back up your nextcloud install on Ubuntu 18.04.
 tags: [how-to,nextcloud,ubuntu,writing-sample,bash]
 comments: true
