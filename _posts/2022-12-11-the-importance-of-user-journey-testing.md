@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Importance of User Journey Testing
-subtitle: Over the past few years I’ve been involved in numerous development projects. The size of the projects have varied from small, to medium, to enterprise level. As many would expect, the smaller projects were less structured in their testing when compared to the larger projects. Unit testing was more sporadic and random and code reviews were infrequent whereas the medium-to-large projects were far more organized and robust with their implementation of unit testing and code reviews. Use cases were well thought-out and included every bit of detail for new features. However, all projects shared one thing in common. Bugs. A lot of them.
 tags: [ux-research,ux,user-journey,product-design]
 comments: true
 author: Jordan Robinson

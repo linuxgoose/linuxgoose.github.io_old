@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What Makes A Junior Engineer Valuable
-subtitle: It has been beaten over the head till no end about folks asking “how do I get into the tech scene?” or “how do I land a six-figure job in tech?” and so on. However, arguably the more important question many need to ask is “how do I make a positive impact as a junior engineer?”. This is a question where the answer is two-fold and may even prove to be valuable for the former question(s).
 tags: [opinion,mentorship,career-advice,development,communication]
 comments: true
 author: Jordan Robinson
