@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Silent Void - How Silence Affects Us
-tags: [kindness,life,better-humans,self-improvement,life-lessons]
+tags: [silence,self-improvement,humanity,life,life-lessons]
 comments: true
 author: Jordan Robinson
 ---
