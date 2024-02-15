@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Silent Void - How Silence Affects Us
+title: How to Back Up Your Ghost Install (Writing Sample)
 subtitle: A tutorial on how to back up your Ghost blogging platform install.
 tags: [how-to,ghost,ubuntu,writing-sample,bash]
 comments: true
