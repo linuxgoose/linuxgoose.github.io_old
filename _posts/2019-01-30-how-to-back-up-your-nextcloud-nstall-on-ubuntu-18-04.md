@@ -2,7 +2,7 @@
 layout: post
 title: Silent Void - How Silence Affects Us
 subtitle: A tutorial on how to back up your nextcloud install on Ubuntu 18.04.
-tags: [kindness,life,better-humans,self-improvement,life-lessons]
+tags: [how-to,nextcloud,ubuntu,writing-sample,bash]
 comments: true
 author: Jordan Robinson
 ---
