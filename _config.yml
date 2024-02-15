@@ -22,9 +22,10 @@ author: Jordan Robinson
 navbar-links:
   About Me: "aboutme"
   Kit: "kit"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Portfolio:
+    - Writing Work: "writing"
+    - Dev Work: "dev"
+    - Podcast Work: "podcasts"
   Medium: "https://jj-robinson.medium.com/"
 
 ################
