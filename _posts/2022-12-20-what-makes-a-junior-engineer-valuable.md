@@ -58,7 +58,7 @@ Let’s dive a little deeper.
 
 ### How to Communicate
 
-https://nohello.net/en/ … enough said.
+[https://nohello.net/en/](https://nohello.net/en/) … enough said.
 
 Jokes aside… we’re all busy and time is a valuable commodity. Chat has evolved and the more we can all chip in and save each other time the better. Thus, when communicating with anyone in your day-to-day happenings skip the pleasantries only first. You can still include the pleasantries with your question or request, though, and should!
 
@@ -93,7 +93,7 @@ At the core, ALM focuses on four stages:
 
 These stages breakdown the process of creating an application from conceptualization of business needs and goals and data and security to software development and testing and finally landing in the ongoing maintenance requirements for bugs and new feature implementation.
 
-There is far more to learn about this topic than I can cover within this article. I would suggest to take a moment to read https://www.redhat.com/en/topics/devops/what-is-application-lifecycle-management-alm article from Red Hat to supplement what I summarized above.
+There is far more to learn about this topic than I can cover within this article. I would suggest to take a moment to read [https://www.redhat.com/en/topics/devops/what-is-application-lifecycle-management-alm](https://www.redhat.com/en/topics/devops/what-is-application-lifecycle-management-alm) article from Red Hat to supplement what I summarized above.
 
 Nonetheless, the most important takeaway here is to understand all that goes into making the magic work and how the dominoes fit together. This will prove valuable when making decisions and prioritizing your work.
 
